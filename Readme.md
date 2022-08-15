@@ -5,7 +5,7 @@
 - Instalar Selenium
   - Executar o comando `pip install selenium`;
 - Chrome Driver compatível com a versão browser - https://chromedriver.chromium.org/;
-  - Chrome Driver de estar na memas pasta que o arquivo `Teste_Saucedemo_Isaias.py`.
+  - Chrome Driver deve estar na memas pasta que o arquivo `Teste_Saucedemo_Isaias.py`.
 
 
 O objetivo deste programa é:
